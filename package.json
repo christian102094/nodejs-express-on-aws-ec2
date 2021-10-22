@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-on-aws-ec2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian102094/nodejs-express-on-aws-ec2.git"
+  },
+  "author": "Christian Tapia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian102094/nodejs-express-on-aws-ec2/issues"
+  },
+  "homepage": "https://github.com/christian102094/nodejs-express-on-aws-ec2#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
